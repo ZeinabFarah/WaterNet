@@ -15,7 +15,10 @@ To use the code, clone the repository to your local machine.
 
 #### Contact
 If you have any questions or comments about this repository, please contact farahmandfarzeinab@gmail.com.
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 6aee7c2f7b17406a5a2294dddbc5d26f0c45267d
